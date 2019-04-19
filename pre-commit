@@ -1,2 +1,3 @@
 #!/bin/sh
+cd /path/to/site/repository
 git submodule foreach git pull origin master
